@@ -1,3 +1,4 @@
+#extension
 /*
    This extension was made with DinoBuilder!
    https://dinobuilder.vercel.app/
